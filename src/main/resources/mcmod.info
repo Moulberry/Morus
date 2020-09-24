@@ -1,12 +1,12 @@
 [
 {
-  "modid": "notenoughupdates",
-  "name": "NotEnoughUpdates",
-  "description": "Mod that shows recipes and useful info for Hypixel's Skyblock gamemode.",
+  "modid": "morus",
+  "name": "Morus",
+  "description": "Sophisticated hud/overlay editor for Minecraft 1.8.9",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://github.com/Moulberry/NotEnoughUpdates/",
-  "updateUrl": "https://github.com/Moulberry/NotEnoughUpdates/releases",
+  "url": "https://github.com/Moulberry/Morus/",
+  "updateUrl": "https://github.com/Moulberry/Morus/releases",
   "authorList": ["Moulberry"],
   "credits": "",
   "logoFile": "",

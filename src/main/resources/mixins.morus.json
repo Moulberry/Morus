@@ -1,14 +1,7 @@
 {
-  "package": "io.github.moulberry.notenoughupdates.mixins",
+  "package": "io.github.moulberry.morus.mixins",
   "refmap": "mixins.notenoughupdates.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "MixinItemStack",
-    "MixinInventoryEffectRenderer",
-    "MixinGuiIngame",
-    "MixinRenderItem",
-    "MixinEntityRenderer",
-    "MixinRenderGlobal",
-    "MixinNetHandlerPlayClient"
   ]
 }
